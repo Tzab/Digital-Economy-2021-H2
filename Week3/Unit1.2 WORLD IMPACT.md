@@ -16,3 +16,19 @@ The benefits of the tool can offer to businesses, is that currently you can get 
 3. What is an economic indicator? Mention examples. 
 
 An economic indicator is an index that calculates how the economy of a region, state or country is doing. The most common economic indicators are Gross Domestic Product (GDP) or Unemployment Rate. Although these indicators are good, they don't really work for calculating how big the digital economy might be today. 
+
+4. What are some of the advantages of ICTs? 
+
+The biggest advantage that ICTs offer us is that the information is faster to reach any place and different people, but also helps the creation of new tools in different areas of work or the automation of certain processes related to productivity and especially innovation as they are always growing and changing. 
+
+5. Mention some examples of ICTs in real life 
+
+-Social networks such as Facebook, Instagram, Tik Tok. 
+-Institutional, business or commercial email. 
+-E-commerce like Amazon, Shein, etc. 
+-Entertainment such as Video Games, Cell Phones, Laptops, Virtual Assistants or SmartWatches. 
+-Data Analysis, Artificial Intelligence, Data Mining or Big Data 
+
+6. What does the development of the digital economy depend on? 
+
+The growth of the digital economy depends only if the country has a robust digital ecosystem, for example. if it has digital infrastructure (companies that produce or work with hadware and software, communication networks as well as service providers such as Telmex, Amazon or Google), and human capital. 
