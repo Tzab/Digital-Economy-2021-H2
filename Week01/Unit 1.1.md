@@ -1,1 +1,3 @@
-
+Digital economy, also called Web Economy, is a term used to refer to the economic activity fostered by society and business sectors to boost productivity and improve life quality through continuous process innovation using technology and digital services.
+Many believe that the world's first digital transformation began in 1844 when the first telegram was sent. However, the term "Digital Economy" appeared until 1995 in the best-seller The Digital Economy: Rethinking Promise and Peril in the Age of Networked Intelligence by Don Tapscott.
+This book was revolutionary because it was one of the first ones to present the change that businesses would undergo thanks to the internet. The Internet has represented a change in the economy, providing a global platform that has allowed people, companies and organizations to interact, exchange information, collaborate and communicate.
