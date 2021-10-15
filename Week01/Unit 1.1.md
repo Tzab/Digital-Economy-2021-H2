@@ -38,3 +38,4 @@ Thinking about the next revolution in productivity, the emphasis that is current
 
 ## Questions
 
+1) 
