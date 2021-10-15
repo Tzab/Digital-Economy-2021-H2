@@ -21,3 +21,12 @@ While the first three eras concentrated on empowering corporations, this era sta
 
 --------------------------------------------------------------------------------------------------------------------------------
 
+It is possible to think each revolution is composed of two economic periods: the installation period and the deployment period.
+
+The installation period refers to the moment when the innovations of the beginning of a new revolution emerge, begin to be adopted by industries and society in general, experiment with them and speculate around them, generating a kind of bubble that when it bursts begins an economic crisis that gives way to the next period.
+
+The unfolding period is when, after the collapse, everything begins to transform, rebuild and stabilize. Experimentation and failed tests allow lessons to be learned that will be established and accepted as more reliable paradigms and models than their predecessors, allowing better use of innovations.
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Thinking about the next revolution in productivity, the emphasis that is currently being placed on innovation is very obvious. While in the past economic growth was supported by environmental resources and human labor, today the government has realized over the years how the environment is increasingly precarious and the young population has been reducing. So, investments have been concentrated on innovation.
