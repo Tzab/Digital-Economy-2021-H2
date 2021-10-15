@@ -46,7 +46,7 @@ Thinking about the next revolution in productivity, the emphasis that is current
 -the installation period and the deployment period
 
 3)What is the installation period?
-- refers to the moment when the innovations of the beginning of a new revolution emerge, begin to be adopted by industries and society in general, experiment with them and speculate around them, generating a kind of bubble that when it bursts begins an economic crisis that gives way to the next period.
+-refers to the moment when the innovations of the beginning of a new revolution emerge, begin to be adopted by industries and society in general, experiment with them and speculate around them, generating a kind of bubble that when it bursts begins an economic crisis that gives way to the next period.
 
 4)what is the unfolding period?
 - after a collapse, everything begins to transform, rebuild and stabilize. Experimentation and failed tests allow lessons to be learned that will be established and accepted as more reliable paradigms and models than their predecessors, allowing better use of innovations.
