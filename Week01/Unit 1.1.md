@@ -40,22 +40,22 @@ Thinking about the next revolution in productivity, the emphasis that is current
 ## Questions
 
 1)When and where was the Digital Economy term first time appeared?
--appeared until 1995 in the best-seller The Digital Economy: Rethinking Promise and Peril in the Age of Networked Intelligence by Don Tapscott
+- appeared until 1995 in the best-seller The Digital Economy: Rethinking Promise and Peril in the Age of Networked Intelligence by Don Tapscott
 
 2)Industrial revolutions are a component of two economic periods. What are these?
--the installation period and the deployment period
+- the installation period and the deployment period
 
 3)What is the installation period?
--refers to the moment when the innovations of the beginning of a new revolution emerge, begin to be adopted by industries and society in general, experiment with them and speculate around them, generating a kind of bubble that when it bursts begins an economic crisis that gives way to the next period.
+- refers to the moment when the innovations of the beginning of a new revolution emerge, begin to be adopted by industries and society in general, experiment with them and speculate around them, generating a kind of bubble that when it bursts begins an economic crisis that gives way to the next period.
 
 4)what is the unfolding period?
 - after a collapse, everything begins to transform, rebuild and stabilize. Experimentation and failed tests allow lessons to be learned that will be established and accepted as more reliable paradigms and models than their predecessors, allowing better use of innovations.
 
 5) What is the role of ICT during a crisis?
--these technologies allow the collection, analysis and sharing of relevant data for the economy that better allow the quality of life, the environment and working conditions.
+- these technologies allow the collection, analysis and sharing of relevant data for the economy that better allow the quality of life, the environment and working conditions.
 
 6) what is the priority in the next revolution?
--the emphasis that is currently being placed on innovation is very obvious. While in the past economic growth was supported by environmental resources and human labor, today the government has realized over the years how the environment is increasingly precarious and the young population has been reducing. So, investments have been concentrated on innovation.
+- the emphasis that is currently being placed on innovation is very obvious. While in the past economic growth was supported by environmental resources and human labor, today the government has realized over the years how the environment is increasingly precarious and the young population has been reducing. So, investments have been concentrated on innovation.
 
 7) What are the changes in communication during industry 2.0?
 - the appearance of new methods such as telegraph and telephone, in addition to the beginning of two modes of transport: automobile and airplane.
@@ -64,14 +64,32 @@ Thinking about the next revolution in productivity, the emphasis that is current
 -  While the first two eras focused on scalable efficiency, scalable adaptability began from 3.0 industry
 
 9) What is the difference between the industry 4.0 and the previous ones?
--While the first three eras concentrated on empowering corporations, this era stands out for empowering people. 
+- While the first three eras concentrated on empowering corporations, this era stands out for empowering people. 
 
 10)Which was the social impact of Industry 3.0?
--The social impact during this era was tremendous with the importance that was given to searching for knowledge with the beginning of research and space exploration programs. In addition, computers, telecommunications and electronics appeared in this era.
+- The social impact during this era was tremendous with the importance that was given to searching for knowledge with the beginning of research and space exploration programs. In addition, computers, telecommunications and electronics appeared in this era.
 
 11) Why is the book the Digital Economy: Rethinking Promise and Peril in the Age of Networked Intelligence by Don Tapscott  so important?
--This book was revolutionary because it was one of the first ones to present the change that businesses would undergo thanks to the internet.
+- This book was revolutionary because it was one of the first ones to present the change that businesses would undergo thanks to the internet.
 
 12) What is the impact of the Internet on the economy?
-It provides a global platform that has allowed people, companies and organizations to interact, exchange information, collaborate and communicate.
+- It provides a global platform that has allowed people, companies and organizations to interact, exchange information, collaborate and communicate.
 
+
+## References
+
+
+
+Gada, K. (2017, April 26). The Digital Economy In 5 Minutes. Forbes. Retrieved June 14, 2016, from https://www.forbes.com/sites/koshagada/2016/06/16/what-is-the-digital-economy/?sh=54eaace37628
+
+Digital economy. (n.d.). ScienceDaily. Retrieved October 14, 2021, from https://www.sciencedaily.com/terms/digital_economy.htm
+
+mdec_@dm1n. (2021, October 2). What is Digital Economy. MDEC. Retrieved October 14, 2021, from https://mdec.my/about-mdec/what-is-digital-economy/
+
+Team, I. (2021, September 9). The 4 Industrial Revolutions. Institute of Entrepreneurship Development. Retrieved October 14, 2021, from https://ied.eu/project-updates/the-4-industrial-revolutions/
+
+Introduction to Industry 4.0. (n.d.). Prescient Technologies. Retrieved October 14, 2021, from https://www.pre-scient.com/knowledge-center/industry-4-0/introduction-to-industry-4-0.html
+
+
+
+Datamation International. (2018, April 4). The Importance of Technology in Economic and Social Development. Medium. Retrieved October 14, 2021, from https://medium.com/@datamationinter/the-importance-of-technology-in-economic-and-social-development-2a063763d06
