@@ -10,6 +10,7 @@ Since the beginning of the industrial revolution, four eras have been marked tha
 Industry 1.0 - Mechanical (1784): during this era stands out the creation of steam engines that became a new source of energy and transport through the invention of the railway, as well as machines were little by little taking more importance in industry and society.
 
 Industry 2.0 - Electrical (1870): Considered by many as one of the revolutions with the greatest impact, this new era was marked by the emergence of new sources of energy that are still in force today: electricity, oil and gas; Furthermore, internal combustion engine was gaining strength in the industry.
+
 This era also began a new start in society with important changes in the way of communicating through the appearance of new methods such as telegraph and telephone, in addition to the beginning of two mode of transport: automobile and airplane.
 
 Industry 3.0- Electronic (1969): During this era the industry received an impact thanks to the appearance of robots and Programmable Logic Controllers (PLC) initiating high-level automation. While the first two eras focused on scalable efficiency, scalable adaptability began from here.
@@ -38,4 +39,39 @@ Thinking about the next revolution in productivity, the emphasis that is current
 
 ## Questions
 
-1) 
+1)When and where was the Digital Economy term first time appeared?
+-appeared until 1995 in the best-seller The Digital Economy: Rethinking Promise and Peril in the Age of Networked Intelligence by Don Tapscott
+
+2)Industrial revolutions are a component of two economic periods. What are these?
+-the installation period and the deployment period
+
+3)What is the installation period?
+- refers to the moment when the innovations of the beginning of a new revolution emerge, begin to be adopted by industries and society in general, experiment with them and speculate around them, generating a kind of bubble that when it bursts begins an economic crisis that gives way to the next period.
+
+4)what is the unfolding period?
+- after a collapse, everything begins to transform, rebuild and stabilize. Experimentation and failed tests allow lessons to be learned that will be established and accepted as more reliable paradigms and models than their predecessors, allowing better use of innovations.
+
+5) What is the role of ICT during a crisis?
+-these technologies allow the collection, analysis and sharing of relevant data for the economy that better allow the quality of life, the environment and working conditions.
+
+6) what is the priority in the next revolution?
+-the emphasis that is currently being placed on innovation is very obvious. While in the past economic growth was supported by environmental resources and human labor, today the government has realized over the years how the environment is increasingly precarious and the young population has been reducing. So, investments have been concentrated on innovation.
+
+7) What are the changes in communication during industry 2.0?
+- the appearance of new methods such as telegraph and telephone, in addition to the beginning of two modes of transport: automobile and airplane.
+
+8) What is the difference between the industry 3.0 and the previous ones?
+-  While the first two eras focused on scalable efficiency, scalable adaptability began from 3.0 industry
+
+9) What is the difference between the industry 4.0 and the previous ones?
+-While the first three eras concentrated on empowering corporations, this era stands out for empowering people. 
+
+10)Which was the social impact of Industry 3.0?
+-The social impact during this era was tremendous with the importance that was given to searching for knowledge with the beginning of research and space exploration programs. In addition, computers, telecommunications and electronics appeared in this era.
+
+11) Why is the book the Digital Economy: Rethinking Promise and Peril in the Age of Networked Intelligence by Don Tapscott  so important?
+-This book was revolutionary because it was one of the first ones to present the change that businesses would undergo thanks to the internet.
+
+12) What is the impact of the Internet on the economy?
+It provides a global platform that has allowed people, companies and organizations to interact, exchange information, collaborate and communicate.
+
